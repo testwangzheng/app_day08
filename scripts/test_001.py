@@ -27,3 +27,4 @@ class Test_001:
     @pytest.allure.severity(pytest.allure.severity_level.TRIVIAL)
     def test_001_5(self):
         assert True
+    
